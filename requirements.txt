@@ -1,0 +1,15 @@
+openai>=1.30.0
+llama-index>=0.11.0
+llama-index-vector-stores-qdrant>=0.3.0
+llama-index-embeddings-huggingface>=0.3.0
+qdrant-client>=1.9.0
+FlagEmbedding>=1.2.0
+sentence-transformers>=3.0.0
+duckduckgo-search>=6.0.0
+fastapi>=0.111.0
+uvicorn[standard]>=0.29.0
+python-multipart>=0.0.9
+python-dotenv>=1.0.0
+requests>=2.31.0
+Pillow>=10.0.0
+beautifulsoup4>=4.12.0
