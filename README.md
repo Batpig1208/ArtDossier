@@ -1,8 +1,8 @@
 # ArtDossier
 
-A VLM-based pipeline for generating structured eight-layer art-historical dossiers for Dutch Golden Age paintings, combining visual language models, hybrid RAG retrieval, and critical aesthetics theory.
+A VLM-based pipeline for generating structured eight-layer art-historical dossiers for 17th-century Dutch paintings, combining visual language models, hybrid RAG retrieval, and critical aesthetics theory.
 
-Developed as an MA thesis project. Companion paper forthcoming.
+Developed as an MA thesis project.
 
 ---
 
@@ -208,7 +208,7 @@ Raw corpus data is not redistributed here. See each institution's data access te
 
 ## Citation
 
-If you use this code, please cite the accompanying thesis (details to be added on publication).
+If you use this code, please cite the accompanying thesis (details to be added on paper).
 
 ---
 
